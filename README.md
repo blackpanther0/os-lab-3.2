@@ -1,2 +1,2 @@
 # os-lab-3.2
- Write a program to simulate deadlock in the system which involves 3 threads and 3 resources
+ WAP to implement race condition using semaphores.
